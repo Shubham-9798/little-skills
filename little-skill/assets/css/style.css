@@ -1,0 +1,95 @@
+#btn-log:hover,#btn-reg:hover{
+    cursor: pointer;
+}
+
+.jumbotron{
+   text-align: center;
+   padding-top: 10px;
+    background-color: white;
+}
+
+.container{
+    margin-top: 30px;
+
+}
+
+.navbar-default .navbar-collapse, .navbar-default .navbar-form {
+    border-color: #e7e7e7;
+    
+}
+
+.container-fluid{
+    background-color:#AD1457;
+    border-bottom: solid 2px maroon;
+}
+ body{
+     background-color:	#f7f4f4;
+     background: url('helper/img/img1.jpg') cover no-repeat;
+ }
+
+ li>a{
+     color: white;
+ }
+
+ .navbar-default .navbar-nav > li > a {
+    color:white
+    ;font-size: 22px;
+}
+
+.navbar-default .navbar-brand {
+    color: wheat;
+    font-size: 23px;
+}
+
+.coll{
+    background-color: teal;
+    margin: 10px auto;
+    width: 60%;
+    color: seashell;
+    font-size: 18px;
+    padding: 6px;
+}
+
+.navbar-default .navbar-brand:hover {
+    color: wheat;
+    font-size: 23px;
+    text-decoration: underline;
+}
+
+ .c1{
+     font-size: 22px;
+     background-color: wheat;
+     color: black;
+ }
+
+
+ form{
+     background-color: white;
+     padding: 6px;
+ }
+
+ #reg,#log{
+    background-color: white;
+    padding: 6px;
+    border: solid 2px black;
+    
+        -webkit-box-shadow: 0 8px 6px -6px black;
+           -moz-box-shadow: 0 8px 6px -6px black;
+                box-shadow: 0 8px 6px -6px black;
+                margin-top:20px;
+    
+
+ }
+
+
+ footer {
+   position: relative;
+    height: 50px;
+    bottom: -200px;
+    width: 99%;
+    background-color: #AD1457;
+    padding: 10px;
+    color: white!important;
+    text-align: center;
+    font-size: 18px;
+}
